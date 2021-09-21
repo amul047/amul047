@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aamir</h1>
+<h1 align="center">Kia ora 👋, I'm Aamir</h1>
 <h3 align="center">A software architect from Aotearoa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amul047&label=Profile%20views&color=0e75b6&style=flat" alt="amul047" /> </p>
 
 - 🌱 I’m currently learning **Azure and Kafka**
-
-- 💬 Ask me about **Heroku, .NET, C#, and SQL**
+- :book: I would recommend reading [Team Topologies](https://teamtopologies.com/book)
+- 💬 You can ask me about **Heroku, .NET, C#, and SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
