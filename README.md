@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amul047&label=Profile%20views&color=0e75b6&style=flat" alt="amul047" /> </p>
 
-- 🌱 I’m currently learning **Azure and Kafka**
+- 🌱 I’m currently learning **Azure**
 - :book: I would recommend reading [Team Topologies](https://teamtopologies.com/book)
 - 💬 You can ask me about **Heroku, .NET, C#, and SQL**
 
