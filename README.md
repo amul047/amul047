@@ -1,9 +1,9 @@
 <h1 align="center">Kia ora 👋, I'm Aamir</h1>
 <h3 align="center">A software architect from Aotearoa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amul047&label=Profile%20views&color=0e75b6&style=flat" alt="amul047" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amul047" alt="amul047" /> </p>
 
-- 🌱 I’m currently learning **Azure**
+- 🌱 I’m currently learning [Go](https://go.dev/)
 - :book: I would recommend reading [Team Topologies](https://teamtopologies.com/book)
 - 💬 You can ask me about **Heroku, .NET, C#, and SQL**
 
@@ -15,7 +15,9 @@
 
 <h3 align="left">Current languages and tools:</h3>
 <p align="left">
-    <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" /> </a>
+    <a href="https://go.dev/" target="_blank"> <img src="https://go.dev/images/go-logo-white.svg" alt="angularjs" width="40" height="40" /> </a>
+    <a href="https://www.elastic.co/" target="_blank"> <img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/6202d3378b1f312528798412/elastic-logo.svg" alt="angularjs" width="40" height="40" /> </a>
+    <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
     <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /> </a>
