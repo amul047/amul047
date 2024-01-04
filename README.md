@@ -1,21 +1,21 @@
-<h1>Kia ora 👋, I'm Aamir</h1>
+# Kia ora 👋, I'm Aamir
 
-<h3>A software architect from Aotearoa</h3>
-- 🌱 I’m currently learning [LangChain](https://www.langchain.com/) 
-- :book: I would recommend reading [Team Topologies](https://teamtopologies.com/book)
+### A software architect from Aotearoa
+- 🌱 I’m currently learning [LangChain](https://www.langchain.com/)
+- :book: I would recommend reading [Team Topologies](https://teamtopologies.com/)
 - 💬 You can ask me about **AI, .NET, C#, and SQL**
 
-<p>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amul047&show_icons=true&locale=en" alt="amul047" />
-</p>
+### Recommendations 👍
+[LinkedIn](https://www.linkedin.com/in/aamirmulla/details/recommendations/)
 
-<h3>Connect with me:</h3>
+### Achievements 🏆 
+[Credly](https://www.credly.com/users/aamir-mulla/badges)
+[Microsoft](https://learn.microsoft.com/en-us/users/aamirmulla-7638/)
+[Google](https://www.cloudskillsboost.google/public_profiles/97aa8496-2fcb-4bea-bb0b-44ccef0eb1e8)
+[Skillsoft](https://skillsoft.digitalbadges.skillsoft.com/profile/aamirmulla901840/wallet)
+[GitHub](https://github.com/amul047?tab=achievements)
+[LinkedIn](https://www.linkedin.com/in/aamirmulla/details/certifications/)
 
-<p>
-	<a href="https://linkedin.com/in/aamirmulla" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aamirmulla" height="30" width="40" /></a>
-	<a href="https://stackoverflow.com/users/3214683" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3214683" height="30" width="40" /></a>
-</p>
-
-
-
+### Connect with me 🔗
+[LinkedIn](https://linkedin.com/in/aamirmulla)
+[Stack Overflow](https://stackoverflow.com/users/3214683)
