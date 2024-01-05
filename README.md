@@ -1,7 +1,7 @@
 # Kia ora 👋, I'm Aamir
 
 ### A software architect from Aotearoa
-- 🌱 I’m currently learning AI technologies
+- 🌱 I’m currently learning Artifical Intellgence (AI) techniques and technologies
 - :book: I would recommend reading [Team Topologies](https://teamtopologies.com/)
 - 💬 You can ask me about **AI, .NET, C#, and SQL**
 
