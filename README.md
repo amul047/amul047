@@ -1,7 +1,7 @@
 # Kia ora 👋, I'm Aamir
 
 ### A software architect from Aotearoa
-- 🌱 I’m currently learning [LangChain](https://www.langchain.com/)
+- 🌱 I’m currently learning AI technologies
 - :book: I would recommend reading [Team Topologies](https://teamtopologies.com/)
 - 💬 You can ask me about **AI, .NET, C#, and SQL**
 
