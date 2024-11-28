@@ -1,9 +1,9 @@
 # Kia ora 👋, I'm Aamir
 
-### A software architect from Aotearoa
-- 🌱 I’m currently learning Artifical Intellgence (AI) techniques and technologies
-- :book: I would recommend reading [Team Topologies](https://teamtopologies.com/)
-- 💬 You can ask me about **AI, .NET, C#, and SQL**
+### An engineer from Aotearoa
+- 🌱 I’m currently leading Artifical Intellgence (AI) integrations using [Azure OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service) and [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
+- :book: I would recommend reading [Team Topologies](https://teamtopologies.com/). I am currently captivated by [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com.au/dp/0787960756)
+- 💬 You can ask me about **Azure OpenAI, Semantic Kernel, Azure Search, .NET, C#, and SQL**
 
 ### Recommendations 👍
 - [LinkedIn](https://www.linkedin.com/in/aamirmulla/details/recommendations/)
